@@ -28,3 +28,4 @@ WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 
 ## Screenshots
+![Screenshot (10)](https://user-images.githubusercontent.com/85006501/126156452-a123feaa-c238-49b7-9d05-b414d1f15991.png)
