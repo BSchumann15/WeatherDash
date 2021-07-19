@@ -64,7 +64,7 @@ var displayWeather = function(weather, searchCity){
    humidityEl.classList = "list-group-item"
 
    var windSpeedEl = document.createElement("span");
-   windSpeedEl.textContent = "Wind Speed: " + weather.wind.speed + " MPH";
+   windSpeedEl.textContent = "Wind Speed: " + weather.wind.speed + " Km p/hour";
    windSpeedEl.classList = "list-group-item"
 
    weatherContainerEl.appendChild(temperatureEl);
