@@ -1,0 +1,38 @@
+
+.header{
+    background-color: skyblue;
+    color: white;
+    text-align: center;
+    padding: 20px;
+
+}
+
+.search-column{
+    background-color:	#D3D3D3;
+    padding:10px
+}
+
+.list-group-item{
+    line-height: 0.5;
+    border: none;
+}
+.card-body{
+    flex:auto
+}
+
+span.bad{
+    padding: 3px;
+    background-color: red;
+    color:white;
+}
+
+span.alright{
+    padding: 3px;
+    background-color: yellow;
+}
+
+span.sweet{
+    padding: 3px;
+    background-color: green;
+    color:white;
+}
