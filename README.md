@@ -2,6 +2,8 @@
 
 ## Link
 
+https://bschumann15.github.io/WeatherDash/
+
 ## Description
 
 This WeatherDash application allows travellers to look up a five week forecast for cities that the traveller might want to travel to so they can plan their trip accordingly. The Aplication shows the current temperature, humidity levels, wind speed and UV index while the five day forecast shows the estimated temperature and humidity for selected city.
