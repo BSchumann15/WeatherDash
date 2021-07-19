@@ -29,7 +29,7 @@ var saveSearch = function(){
 
 var getCityWeather = function(city){
     var apiKey = "38197bb9cc37bcc77a3f214b4d40aa69"
-    var apiURL = `https://api.openweathermap.org/data/2.5/weather?q=${city}&units=imperial&appid=${apiKey}`
+    var apiURL = `https://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=${apiKey}`
 
     fetch(apiURL)
     .then(function(response){
