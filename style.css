@@ -4,17 +4,23 @@
     color: white;
     text-align: center;
     padding: 20px;
+    font-family: 'Encode Sans SC', sans-serif;
+}
+
+.col-12{
+    font-family: 'Encode Sans SC', sans-serif;
 
 }
 
 .search-column{
-    background-color:	#D3D3D3;
-    padding:10px
+    background-color:rgb(151, 148, 148);
+    padding:10px;
 }
 
 .list-group-item{
     line-height: 0.5;
     border: none;
+    font-family: 'Encode Sans SC', sans-serif
 }
 .card-body{
     flex:auto
